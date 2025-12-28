@@ -26,7 +26,7 @@ function Hero() {
             </a>
 
             <a
-              href={cvFile}
+              href="/Subodha_Bandara_CV.pdf"
               download
               className="btn secondary"
             >
