@@ -1,5 +1,5 @@
 import profileImg from "../assets/profile.jpg";
-//import cvFile from "../assets/cv/Subodha_Bandara_CV.pdf";
+import cvFile from "../assets/cv/Subodha_Bandara_CV.pdf";
 
 function Hero() {
   return (
@@ -26,7 +26,7 @@ function Hero() {
             </a>
 
             <a
-              href="/Subodha_Bandara_CV.pdf"
+              href={cvFile}
               download
               className="btn secondary"
             >
