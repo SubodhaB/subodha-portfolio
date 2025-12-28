@@ -1,5 +1,5 @@
 import profileImg from "../assets/profile.jpg";
-import cvFile from "../assets/cv/Subodha_Bandara_CV.pdf";
+//import cvFile from "../assets/cv/Subodha_Bandara_CV.pdf";
 
 function Hero() {
   return (
