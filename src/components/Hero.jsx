@@ -1,4 +1,5 @@
 import profileImg from "../assets/profile.jpg";
+import cvFile from "../assets/cv/Subodha_Bandara_CV.pdf";
 
 function Hero() {
   return (
@@ -22,6 +23,14 @@ function Hero() {
           <div className="hero-buttons">
             <a href="#projects" className="btn primary">
               View Projects
+            </a>
+
+            <a
+              href={cvFile}
+              download
+              className="btn secondary"
+            >
+              Download CV
             </a>
 
             <a
