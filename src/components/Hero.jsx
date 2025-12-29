@@ -11,7 +11,7 @@ function Hero() {
           <h1>Subodha Bandara</h1>
 
           <h2>
-            IT Undergraduate | Full-Stack Development • Networking • Systems Support
+            IT Undergraduate | Full-Stack Developer | Networking & Systems Support
           </h2>
 
           <p>
